@@ -1,0 +1,7 @@
+dist/
+.preview/
+
+# Unpublished research media, retained locally.
+/images/parallel256_muscles.mp4
+/images/research/parallel256_muscles.gif
+/images/research/parallel256_muscles-still.png
